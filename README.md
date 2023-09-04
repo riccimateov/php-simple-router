@@ -10,7 +10,7 @@ El proyecto sigue una estructura de carpetas básica:
 
 - `controllers/`: Contiene los archivos de controladores.
 - `views/`: Puedes colocar tus archivos de vistas en esta carpeta.
-- `index.php`: El archivo principal que contiene el enrutador y las definiciones de rutas.
+- `router.php`: El archivo principal que contiene el enrutador y las definiciones de rutas.
 
 ## Definición de Rutas
 
