@@ -28,7 +28,7 @@ $routes = array(
         'name' => 'index',
     ),
 );
-
+```
 En caso de que no encuentre el archivo del controlador o la ruta no este definida, mostrara el mensaje correspondiente. 
 Tambien se podria reemplazar esto y mostrar un 404 not found.
 
